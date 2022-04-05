@@ -33,10 +33,10 @@ __*Objetivo*__
   >>h)cor do texto da tag ul em modo RGB, valores (223, 215, 185); <br>
 <br>
 
-Se não estiver obtendo resultados semelhantes, verifique sua tag <link> para vinculação com o nome correto da folha de estilos e lembre-se de praticar a inspeção de código para procurar por regras que não estejam sendo aplicadas!
+Se não estiver obtendo resultados semelhantes, verifique sua tag <link> para vinculação com o nome correto da folha de estilos e lembre-se de praticar a inspeção de código para procurar por regras que não estejam sendo aplicadas!<br>
 <br>
 Nesse momento, já aplicamos as regras CSS que conhecemos até aqui, mas você deve estar percebendo que ainda não alcançamos o objetivo definido para a atividade.<br>
-Vamos experimentar algumas novas propriedades para praticar um pouco mais as regras de estilo. <br>
+Vamos experimentar algumas novas propriedades para praticar um pouco mais as regras de estilo. <br><br>
 A cada nova regra adicionada, verifique a visualização no navegador para observar seu efeito.<br>
 7- Configure as fontes adicionando a regra font-family: Arial, Helvetica, sans-serif;  à tag body e a regra font-family: Georgia, 'Times New Roman', Times, serif; à tag h1. <br>
 8- Configure a propriedade font-size aplicando os valores 40px à tag h1, 20px à tag h2 e 20px à classe job-title. <br>
